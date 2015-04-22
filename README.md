@@ -1,2 +1,0 @@
-# hautebrides
-Haute Brides Magazine
