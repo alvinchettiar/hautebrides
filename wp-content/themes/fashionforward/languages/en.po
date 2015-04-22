@@ -1,0 +1,410 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FashionForward\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-24 00:37+0530\n"
+"PO-Revision-Date: 2014-11-24 00:37+0530\n"
+"Last-Translator: Ahmed Kaludi <help@magazine3.com>\n"
+"Language-Team: Magazine3 Team <help@magazine3.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;_s\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:8
+msgid "*404* - Not Found"
+msgstr ""
+
+#: ../404.php:9
+msgid ""
+"Sorry, we can't find the content you're looking for at this URL. Please "
+"navigate from the navigation menu on top or try searching below.."
+msgstr ""
+
+#: ../archive.php:10 ../page.php:6 ../search.php:10 ../single.php:25
+msgid "You are here: "
+msgstr ""
+
+#: ../archive.php:24
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../archive.php:30
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../archive.php:36
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../archive.php:50
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../archive.php:66
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:72
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:78
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:86
+msgid "Archives"
+msgstr ""
+
+#: ../archive.php:136 ../search.php:56
+msgid "This user hasn't shared any profile information"
+msgstr ""
+
+#: ../archive.php:142 ../search.php:62
+msgid "Home page:"
+msgstr ""
+
+#: ../attachment.php:22
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../attachment.php:24
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../attachment.php:46
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> "
+"at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> "
+"in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#: ../attachment.php:68
+msgid "Edit"
+msgstr ""
+
+#: ../attachment.php:166 ../page.php:53 ../single.php:93 ../single.php:217
+msgid "Pages:"
+msgstr ""
+
+#: ../autoscroll.php:7
+msgid "THE LATEST"
+msgstr ""
+
+#: ../autoscroll.php:11
+msgid "[your daily fashion dose] "
+msgstr ""
+
+#: ../autoscroll.php:77 ../content.php:7
+msgid "in"
+msgstr ""
+
+#: ../comments.php:15 ../comments.php:31
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:16 ../comments.php:32
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:17 ../comments.php:33
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:37
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-none.php:4
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:11
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:16
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content-single.php:1
+msgid "RELATED NEWS "
+msgstr ""
+
+#: ../functions.php:40
+msgid "Home"
+msgstr ""
+
+#: ../functions.php:55
+msgid "Trending Navigation"
+msgstr ""
+
+#: ../functions.php:61
+msgid "Primary Navigation"
+msgstr ""
+
+#: ../functions.php:67
+msgid "Footer Navigation"
+msgstr ""
+
+#: ../functions.php:171
+msgid "Default Sidebar"
+msgstr ""
+
+#: ../functions.php:173
+msgid "Main sidebar that appears on the right."
+msgstr ""
+
+#: ../functions.php:189
+msgid "Footer Block 1"
+msgstr ""
+
+#: ../functions.php:191 ../functions.php:209 ../functions.php:227
+#: ../functions.php:245
+msgid "Main sidebar that appears in the footer."
+msgstr ""
+
+#: ../functions.php:207
+msgid "Footer Block 2"
+msgstr ""
+
+#: ../functions.php:225
+msgid "Footer Block 3"
+msgstr ""
+
+#: ../functions.php:243
+msgid "Footer Block 4"
+msgstr ""
+
+#: ../functions.php:467
+msgid "Page"
+msgstr ""
+
+#: ../header.php:20
+msgid "Scroll to Top"
+msgstr ""
+
+#: ../header.php:92
+msgid "FOLLOW"
+msgstr ""
+
+#: ../includes/customizer.php:31
+#, php-format
+msgid "<strong>RSS Error</strong>: %s"
+msgstr ""
+
+#: ../includes/customizer.php:39
+msgid "Global"
+msgstr ""
+
+#: ../includes/customizer.php:41
+msgid ""
+"Upload a logo to replace the default site name and description in the header"
+msgstr ""
+
+#: ../includes/customizer.php:55
+msgid "Logo"
+msgstr ""
+
+#: ../includes/customizer.php:71
+msgid "Favicon"
+msgstr ""
+
+#: ../includes/customizer.php:87
+msgid "Layout"
+msgstr ""
+
+#: ../includes/customizer.php:171
+msgid "Footer"
+msgstr ""
+
+#: ../includes/customizer.php:217
+msgid "Paste the Google Analyics Tracking code "
+msgstr ""
+
+#: ../includes/customizer.php:231
+msgid " &copy; Copyright "
+msgstr ""
+
+#: ../includes/customizer.php:261
+msgid "HomePage"
+msgstr ""
+
+#: ../includes/customizer.php:263
+msgid ""
+"Where are these Category Blocks? <a href=\"#\"> Click Here for more detials "
+"</a> "
+msgstr ""
+
+#: ../includes/customizer.php:373
+msgid "Featured"
+msgstr ""
+
+#: ../includes/customizer.php:465 ../includes/customizer.php:555
+#: ../includes/customizer.php:649 ../includes/customizer.php:741
+msgid " Featured in Fashion "
+msgstr ""
+
+#: ../includes/customizer.php:839
+msgid "Social Media Icons"
+msgstr ""
+
+#: ../includes/customizer.php:1524
+msgid "Single Post"
+msgstr ""
+
+#: ../includes/customizer.php:1624
+msgid "Advertisement"
+msgstr ""
+
+#: ../includes/customizer.php:1626
+msgid "Where are these Advertisement Areas? <a href=\""
+msgstr ""
+
+#: ../includes/customizer.php:1700 ../includes/customizer.php:1776
+#: ../includes/customizer.php:1852 ../includes/customizer.php:1928
+#: ../includes/customizer.php:2000 ../includes/customizer.php:2072
+#: ../includes/customizer.php:2146
+msgid "Paste your Advertisement code "
+msgstr ""
+
+#: ../includes/customizer.php:2160
+msgid "Background"
+msgstr ""
+
+#: ../includes/customizer.php:2200
+msgid "Colors"
+msgstr ""
+
+#: ../includes/customizer.php:2352
+msgid "Advance Settings"
+msgstr ""
+
+#: ../includes/theme-updater.php:305
+msgid "Executing upgrader_source_selection filter function..."
+msgstr ""
+
+#: ../includes/theme-updater.php:315
+msgid "Renamed theme folder successfully."
+msgstr ""
+
+#: ../includes/theme-updater.php:320
+msgid "**Unable to rename downloaded theme."
+msgstr ""
+
+#: ../includes/theme-updater.php:326
+msgid "**Source or Remote Source is unavailable."
+msgstr ""
+
+#: ../includes/theme-updater.php:347
+msgid " Theme Updates"
+msgstr ""
+
+#: ../includes/theme-updater.php:385
+msgid "Username: "
+msgstr ""
+
+#: ../includes/theme-updater.php:389
+msgid "Email: "
+msgstr ""
+
+#: ../includes/theme-updater.php:395
+msgid "Key: "
+msgstr ""
+
+#: ../includes/theme-updater.php:400
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+
+#: ../includes/theme-updater.php:404
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+
+#: ../includes/theme-updater.php:405
+msgid "Edit Key"
+msgstr ""
+
+#: ../includes/theme-updater.php:409
+msgid "<p>Unable to validate update activation.</p>"
+msgstr ""
+
+#: ../includes/theme-updater.php:410
+msgid "Try again"
+msgstr ""
+
+#: ../includes/theme-updater.php:415
+msgid "Add Key"
+msgstr ""
+
+#: ../includes/theme-updater.php:501
+msgid "User name"
+msgstr ""
+
+#: ../includes/theme-updater.php:507
+msgid "Email"
+msgstr ""
+
+#: ../includes/theme-updater.php:516
+msgid "Activation Key"
+msgstr ""
+
+#: ../js/scroll/load-more.php:106
+msgid "load more"
+msgstr ""
+
+#: ../page-archives.php:10
+msgid "Pages"
+msgstr ""
+
+#: ../page-archives.php:15
+msgid "By Month"
+msgstr ""
+
+#: ../page-archives.php:20
+msgid "By Category"
+msgstr ""
+
+#: ../page-archives.php:26
+msgid "Browse Last 45 Articles:"
+msgstr ""
+
+#: ../page.php:27 ../single.php:69
+msgid "Posted by "
+msgstr ""
+
+#: ../page.php:27 ../single.php:69
+msgid "on "
+msgstr ""
+
+#: ../posts.php:11
+msgid "By"
+msgstr ""
+
+#: ../single.php:30
+msgid "views"
+msgstr ""
+
+#: ../single.php:101
+msgid "Tags: <span class=\"tagssingle\">"
+msgstr ""
