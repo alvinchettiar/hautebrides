@@ -7,13 +7,14 @@
 <?php } ?>
 
  <!--Featured Area Start-->
+
     <section>
         <div class="featured_third">
     <div class="featured-title"><?php echo get_theme_mod('block9_text', 'What’s Hottest Now!'); ?></div>
     
     <?php  $feat_cat = array(
             'category_name' => get_theme_mod('block_9_cat'),
-            'posts_per_page' => 2,
+            'posts_per_page' => 4,
             'offset' => 0); 
    ?>
   <div class="featured-post-container">
@@ -30,7 +31,7 @@
               <div class="postdesc">
                   <p class="clearfix"></p>
                   <div class="fsection3-post-title"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></div>
-                  <?php echo substr($content, 0, 65); ?> <?php ($content_length > 65) ? "..." : ""; ?>
+                  <?php echo substr($content, 0, 150); ?> <?php ($content_length > 150) ? "..." : ""; ?>
               </div>
             </div>
          <?php endwhile; ?>

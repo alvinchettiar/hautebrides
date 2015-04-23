@@ -1,3 +1,4 @@
+<?php get_sidebar(); ?>
 <section>
 <div class="featured_third">
     <?php  $feat_cat = array(

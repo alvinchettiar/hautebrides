@@ -7,7 +7,7 @@
 <?php } ?>
 
  <!--Featured Area Start-->
-<?php get_sidebar(); ?>
+
     <section>
 
         <div class="featured_third">
@@ -16,7 +16,7 @@
     
     <?php  $feat_cat = array(
             'category_name' => get_theme_mod('block_1_cat'),
-            'posts_per_page' => 2,
+            'posts_per_page' => 4,
             'offset' => 0); 
    ?>
   <div class="featured-post-container">
@@ -33,7 +33,7 @@
               <div class="postdesc">
 
                   <div class="fsection3-post-title"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></div>
-                  <?php echo substr($content, 0, 65); ?><?php ($content_length > 65) ? "..." : ""; ?>
+                  <?php echo substr($content, 0, 150); ?><?php ($content_length > 150) ? "..." : ""; ?>
               </div>
             </div>
 
@@ -43,6 +43,7 @@
    </div>
 </div>
     </section>
+
 
     <!--Featured Area End--> 
 <?php if ( '1' === get_theme_mod( 'ad_3_on_off' ) ) { ?>

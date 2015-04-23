@@ -267,7 +267,8 @@ add_image_size( 'featured2-small-thumbnail', 186, 230 , true );
 
 add_image_size( 'featured2-thumbnail', 368, 444 , true );
 
-add_image_size( 'featured3-thumbnail', 215, 256 , true );
+//add_image_size( 'featured3-thumbnail', 215, 256 , true );
+add_image_size( 'featured3-thumbnail', 280, 315 , true );
 
 add_image_size( 'featured4-right-thumbnail', 297, 388 , true );
 

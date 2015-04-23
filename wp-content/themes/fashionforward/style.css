@@ -5817,8 +5817,10 @@ text-align: center;
 
     width: 1200px;
 
+    margin-top: 0px;
+    /*position: fixed;*/
 
-
+    /*z-index: 9999;*/
 
 
 
@@ -8668,11 +8670,12 @@ margin-top: 20px;
 
 	/*width: 296px;*/
 	/*width: 454px;*/
-width: 285px;
+/*width: 285px;*/
+width: 410px;
 
 
 	/*height: 355px;*/
-	height: 300px;
+	height: 420px;
 
 
 
@@ -8686,16 +8689,23 @@ width: 285px;
 
 .featured-post:nth-child(2) {
     /*margin-right: 17px;*/
-    margin-left: 17px;
+    /*margin-left: 17px;*/
+    margin-left: 22px;
 
     /*border-right: 0px;*/
     /*border-left: 1px solid grey;*/
     /*padding-left: 50px;*/
 }
 
+
+.featured-post:nth-child(3) {
+    padding-right: 25px;
+    border-right: 1px dotted grey;
+}
+
 .featured-post:nth-child(4) {
     /*margin-right: 17px;*/
-    margin-left: 17px;
+    margin-left: 22px;
     /*padding-left: 10px;*/
     /*border-right: 0px;*/
     /*border-left: 1px solid grey;*/
@@ -8706,6 +8716,7 @@ width: 285px;
 
 
 
+    /*padding-right: 25px;*/
     padding-right: 25px;
     border-right: 1px dotted grey;
 
@@ -8746,7 +8757,8 @@ margin-bottom: 6px;
 
 margin-top: 19px;
     border-top: 1px dotted grey;
-    width: 614px;
+    /*width: 614px;*/
+    width: 870px;
     border-bottom: 1px dotted grey;
 
 
@@ -9809,8 +9821,8 @@ width: 880px;
 
 
 	/*width: 216px;*/
-width: 180px;
-    height: 322px;
+    width: 267px;
+    height: 394px;
 
 
 
@@ -18252,7 +18264,18 @@ article, details, figcaption, figure, hgroup, section {
 	width:720px;
 }
 
+section {
+    width: 688px;
+}
 
+#rev_slider_1_1, #rev_slider_1_1_wrapper
+{
+    width: 670px;
+}
+
+.featured-title{
+    width: 670px;
+}
 
 .before-header-container, .header-container, #wrapper, .footer-menu-container, .footercontainer, .copyrights-container{
 
@@ -18330,12 +18353,12 @@ article, details, figcaption, figure, hgroup, section {
 
 
 
-	height: auto;
+	height: 350px;
 
 
 
 	/*width: 261px;*/
-	width: 350px;
+	width: 305px;
 
 
 
@@ -19256,10 +19279,16 @@ article, details, figcaption, figure, hgroup, section {
 
 @media only screen and ( max-width: 767px ) { 
 
+/***** Rev Slider &****/
 
+    #rev_slider_1_1, #rev_slider_1_1_wrapper{
+        width: 310px !important;
+        height: 178px !important;
+    }
 
 article, details, figcaption, figure, hgroup, section {
 	width:auto;
+    border-right: 0px;
 }
 
 
@@ -19429,7 +19458,11 @@ article, details, figcaption, figure, hgroup, section {
 }
 
 
+.featured_third {
 
+    width: 320px;
+
+}
 
 
 
@@ -19447,12 +19480,20 @@ article, details, figcaption, figure, hgroup, section {
 
 
 	font-size: 22px;
+    width: 310px;
 
 
 
 }
 
+.featured-post:first-child, .featured-post:nth-child(3) {
+    padding-right: 0px;
+    border-right: 0px ;
+}
 
+    .featured-post:nth-child(2), .featured-post:nth-child(4) {
+        margin-left: 0px;
+    }
 
 .featured-post {
 
@@ -19463,7 +19504,7 @@ article, details, figcaption, figure, hgroup, section {
 
 
 
-	height: auto;
+	height: 360px;
 
 
 
@@ -19610,7 +19651,14 @@ article, details, figcaption, figure, hgroup, section {
 
 }
 
+    .fsection3-post:first-child { width: 310px; margin-left: 15px; border-right: 0px; height: 410px; }
 
+    .fsection3-post:nth-child(2){
+        width: 310px;
+        margin-left: 15px;
+        border-right: 0px;
+        height: 410px;
+    }
 
 .fsection3-post {
 
@@ -19620,7 +19668,8 @@ article, details, figcaption, figure, hgroup, section {
 
 
 
-	height: 334px;
+	height: 410px;
+    width: 300px;
 
 
 
@@ -19662,7 +19711,7 @@ article, details, figcaption, figure, hgroup, section {
 
 
 
-    width: 434px;
+    width: 310px;
 
 
 
@@ -19975,7 +20024,9 @@ img, video, object, iframe {
 }
 
 
-
+section {
+    width: 300px;
+}
 
 
 
@@ -20048,7 +20099,7 @@ img, video, object, iframe {
 
 
 
-	width: auto;
+	width: 310px;
 
 
 
@@ -20164,19 +20215,27 @@ img, video, object, iframe {
 
 
 
+
 }
 
+    .fsection3-post:first-child { width: 310px; margin-left: 15px; border-right: 0px; }
 
+    .fsection3-post:nth-child(2){
+        width: 310px;
+        margin-left: 15px;
+        border-right: 0px;
+    }
 
 .fsection3-post {
 
 
 
-	width: 150px;
+	width: 310px;
 
 
 
-	height: 275px;
+	height: 403px;
+    margin-left: 15px;
 
 
 
