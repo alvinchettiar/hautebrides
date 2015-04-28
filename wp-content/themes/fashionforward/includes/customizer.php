@@ -1077,6 +1077,91 @@
 
     /* Block 9 Ends  */
 
+    /**************** BLOCK 10 SETTNGS **************/
+
+    /* Block 9   */
+
+    $wp_customize->add_setting( 'block10_text', array(
+
+        'label'   => 'Text',
+
+        'default' => __( ' Featured in Fashion ', 'mm' ),
+
+
+
+    ) );
+
+
+
+    $wp_customize->add_control( 'block10_text', array(
+
+        'label'   => 'Block #10',
+
+        'section' => 'cat_block_section',
+
+        'type'    => 'text',
+
+        'priority'    => 32,
+
+    ) );
+
+
+
+
+
+    // Block 9 Font Color control
+
+    $wp_customize->add_setting( 'b10_font_color', array(
+
+        'default'        => '#000000',
+
+        'transport'     => 'postMessage',
+
+    ) );
+
+
+
+    $wp_customize->add_control( new WP_Customize_Color_Control( $wp_customize, 'b10_font_color', array(
+
+        'label'   => 'Block #10 Font Color',
+
+        'section' => 'cat_block_section',
+
+        'settings'   => 'b10_font_color',
+
+        'priority'    => 33,
+
+    ) ) );
+
+
+    // Block 10 Category control
+
+    $wp_customize->add_setting('block_10_cat', array(
+
+        'default'        => 'uncategorized',
+
+        'capability'     => 'edit_theme_options',
+
+    ));
+
+    $wp_customize->add_control( 'block_10_cat', array(
+
+        'settings' => 'block_10_cat',
+
+        'label'   => 'Block #10 Category',
+
+        'section' => 'cat_block_section',
+
+        'type'    => 'select',
+
+        'priority'    => 34,
+
+        'choices' => get_categories_select()
+
+    ));
+
+    /* Block 10 Ends  */
+
 
 	    
 

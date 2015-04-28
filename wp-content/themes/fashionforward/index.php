@@ -21,8 +21,8 @@
     <?php //get_template_part( 'featured5', get_post_format() );?>
     <?php //get_template_part( 'featured6', get_post_format() );?>
     <?php get_template_part( 'featured7', get_post_format() );?>
-
-    </div>
+    <?php get_template_part( 'featured10', get_post_format() );?>
+      </div>
     
     <div class="cb"> </div>
     </div>
