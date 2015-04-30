@@ -40,7 +40,7 @@
 <?php } ?>
 
 <!--Before Header-->
-
+<?php /*?>
 <div class="before-header">
 <h1 class='seo-site-title'><a href='<?php echo esc_url( home_url( '/' ) ); ?>' title='<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>' rel='home'><?php bloginfo( 'name' ); ?></a></h1>
 
@@ -56,13 +56,13 @@
 
       <?php if(has_nav_menu ('top_nav'))
 
-                        wp_nav_menu( array( 
+                        wp_nav_menu( array(
 
                             'container' => 'nav',
 
                             'container_id' => 'nav',
 
-                            'theme_location' => 'top_nav', 
+                            'theme_location' => 'top_nav',
 
                             'sort_column' => 'menu_order',
 
@@ -74,7 +74,7 @@
 
     <?php } ?>
 
-    <!--Top Menu End--> 
+    <!--Top Menu End-->
 
     <!--Top Search-->
 
@@ -207,7 +207,7 @@
   </div>
 
 </div>
-
+<?php */?>
 <!--Header Start-->
 
 <header>

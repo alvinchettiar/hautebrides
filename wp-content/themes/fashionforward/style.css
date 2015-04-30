@@ -230,8 +230,8 @@ body, button, input, select, textarea {
 
 
 
-	font-family: Georgia, "Times New Roman", Times, serif, serif;
-
+	/*font-family: Georgia, "Times New Roman", Times, serif, serif;*/
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 
 
@@ -5818,9 +5818,10 @@ text-align: center;
     width: 1200px;
 
     margin-top: 0px;
-    /*position: fixed;*/
+    position: fixed;
 
-    /*z-index: 9999;*/
+    z-index: 99999;
+    top: 0px;
 
 
 
@@ -7416,11 +7417,12 @@ font-family: arial;
 
 
 
-float: left;
+/*float: left;*/
 
 
 
 padding: 5px 12px;
+text-align: left;
 
 
 
@@ -17942,7 +17944,7 @@ margin-top: 0px;
 
   margin-right: auto;
 
-
+margin-top: 350px;
 
 }
 
