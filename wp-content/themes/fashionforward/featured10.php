@@ -28,12 +28,14 @@ $category_link = get_category_link( $category_id );
 
           <div class="fsection3-post-title"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></div>
             <?php
-            $content = apply_filters('the_content', get_the_content());
+            /*$content = apply_filters('the_content', get_the_content());
             $content = htmlspecialchars_decode(str_replace( ']]>', ']]&gt;', $content ));
+            $content_length = strlen($content);*/
+            $content = get_the_content();
             $content_length = strlen($content);
             ?>
             <div class="postdesc">
-                 <?php echo substr($content, 0, 45); ?><?php ($content_length > 65) ? "..." : ""; ?>
+                 <?php echo substr($content, 0, 65); ?><?php ($content_length > 65) ? "..." : ""; ?>
             </div>
 
         </div>

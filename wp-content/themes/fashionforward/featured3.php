@@ -1,6 +1,6 @@
 <?php get_sidebar(); ?>
 <section>
-<div class="featured_third">
+<div class="featured_third"> <!--id="slug2" -->
     <?php  $feat_cat = array(
 
             'category_name' => get_theme_mod('block_3_cat'),
@@ -28,12 +28,15 @@ $category_link = get_category_link( $category_id );
 
           <div class="fsection3-post-title"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></div>
             <?php
-            $content = apply_filters('the_content', get_the_content());
-            $content = htmlspecialchars_decode(str_replace( ']]>', ']]&gt;', $content ));
+            /*$content = apply_filters('the_content', get_the_content());
+            $content1 = htmlspecialchars_decode(str_replace( ']]>', ']]&gt;', $content ));
+            $content2 = preg_replace('/^\s+|\n|\r|\s+$/m', '', $content1);
+            $content_length = strlen($content2);*/
+            $content = get_the_content();
             $content_length = strlen($content);
             ?>
             <div class="postdesc">
-                 <?php echo substr($content, 0, 45); ?><?php ($content_length > 65) ? "..." : ""; ?>
+                 <?php echo substr($content, 0, 65); ?><?php ($content_length > 65) ? "..." : ""; ?>
             </div>
 
         </div>

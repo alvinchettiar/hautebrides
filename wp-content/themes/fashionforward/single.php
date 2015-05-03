@@ -14,13 +14,7 @@
 
 
 
-
-
-
-
 <div class="main-single">
-
-
 
   <div class="breadcrumb"><div class="breadcrumb-left"> <span class="statictext"><?php _e('You are here: ','mm'); ?> </span> <?php m3_seo_breadcrumbs(); ?></div>
 
@@ -30,7 +24,7 @@
 <div class="viewsmeta"><?php if(function_exists('magazine3_setPostViews')) { ?> <span class="m3views"><?php magazine3_setPostViews(get_the_ID()); ?><?php echo magazine3_getPostViews(get_the_ID()); ?> <?php _e( 'views', 'mm' ); ?> </span> <?php } else { } ?></div> |
 
 
-<?php comments_popup_link('LEAVE A COMMENT', '1 COMMENT', '% COMMENTS'); ?> 
+<?php comments_popup_link('LEAVE A COMMENT', '1 COMMENT', '% COMMENTS'); ?>
 
 
 
@@ -45,17 +39,16 @@
   </div>
 
 
-
+  <?php //get_template_part( 'autoscroll' );?>
    <?php if(have_posts()) : ?><?php while(have_posts()) : the_post(); ?>
 
 
 
-  <div class="singlepage-title"> <h1><?php the_title(); ?></h1></div>
 
 
-
-  <div class="content-single">
-
+<?php get_sidebar('left'); ?>
+  <div class="content-single-inner">
+      <div class="singlepage-title"> <h1><?php the_title(); ?></h1></div>
 <?php if ( '1' === get_theme_mod( 'ad_8_on_off' ) ) { ?>
 <center>
 <div class="ad8">

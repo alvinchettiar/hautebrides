@@ -1079,7 +1079,7 @@
 
     /**************** BLOCK 10 SETTNGS **************/
 
-    /* Block 9   */
+    /* Block 10   */
 
     $wp_customize->add_setting( 'block10_text', array(
 

@@ -23,9 +23,11 @@
 <!--            <div class="fpost-title"><a href="--><?php //the_permalink(); ?><!--">--><?php //the_title(); ?><!--</a></div>-->
             <a href="<?php the_permalink(); ?>" rel="bookmark"><?php the_post_thumbnail( 'feature-thumbnail' ); ?></a><br>
               <?php
-              $content = apply_filters('the_content', get_the_content());
+              /*$content = apply_filters('the_content', get_the_content());
               $content = str_replace( ']]>', ']]&gt;', $content );
 
+              $content_length = strlen($content);*/
+              $content = get_the_content();
               $content_length = strlen($content);
               ?>
               <div class="postdesc">

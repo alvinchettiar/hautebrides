@@ -11,7 +11,8 @@
     <section>
 
         <div class="featured_third">
-        <?php putRevSlider("home-launch") ?><br>
+        <?php //putRevSlider("home-launch") ?><br>
+            <?php echo do_shortcode("[URIS id=150]"); ?>
     <div class="featured-title"><?php echo get_theme_mod('block1_text', 'What’s Hottest Now!'); ?></div>
     
     <?php  $feat_cat = array(
@@ -26,8 +27,12 @@
 <!--            <div class="fpost-title"><a href="--><?php //the_permalink(); ?><!--">--><?php //the_title(); ?><!--</a></div>-->
             <a href="<?php the_permalink(); ?>" rel="bookmark"><?php the_post_thumbnail( 'feature-thumbnail' ); ?></a>
               <?php
-              $content = apply_filters('the_content', get_the_content());
-              $content = str_replace( ']]>', ']]&gt;', $content );
+              /*$content = apply_filters('the_content', get_the_content());
+              $content1 = htmlspecialchars_decode(str_replace( ']]>', ']]&gt;', $content ));
+              $content2 = preg_replace('/^\s+|\n|\r|\s+$/m', '', $content1);
+              $content_length = strlen($content2);*/
+
+              $content = get_the_content();
               $content_length = strlen($content);
               ?>
               <div class="postdesc">

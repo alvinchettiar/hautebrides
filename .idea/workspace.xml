@@ -23,55 +23,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="featured.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/featured.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="20" selection-start="1522" selection-end="1522" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="915">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="featured3.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/featured3.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="1" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="1020">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="featured10.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/featured10.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="45" selection-start="430" selection-end="430" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1020">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="27" selection-start="458" selection-end="458" vertical-scroll-proportion="-7.5" vertical-offset="60" max-vertical-offset="945">
+            <state line="10" column="46" selection-start="165" selection-end="165" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="945">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/header.php">
+      <file leaf-file-name="single.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/single.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="213" column="0" selection-start="6559" selection-end="6559" vertical-scroll-proportion="-10.083333" vertical-offset="2953" max-vertical-offset="4140">
+            <state line="18" column="10" selection-start="116" selection-end="116" vertical-scroll-proportion="-9.041667" vertical-offset="53" max-vertical-offset="4485">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/style.css">
+      <file leaf-file-name="sidebar-left.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/sidebar-left.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17940" column="20" selection-start="68540" selection-end="68540" vertical-scroll-proportion="0.54972875" vertical-offset="268796" max-vertical-offset="307875">
+            <state line="6" column="15" selection-start="274" selection-end="274" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
@@ -80,25 +53,16 @@
       <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="268" column="0" selection-start="8056" selection-end="8056" vertical-scroll-proportion="-7.0833335" vertical-offset="3850" max-vertical-offset="9315">
+            <state line="322" column="67" selection-start="9436" selection-end="9436" vertical-scroll-proportion="-8.083333" vertical-offset="4636" max-vertical-offset="9600">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="customizer.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/includes/customizer.php">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1162" column="15" selection-start="25089" selection-end="25089" vertical-scroll-proportion="0.0" vertical-offset="17170" max-vertical-offset="41730">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="featured7.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/featured7.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="29" selection-start="391" selection-end="391" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="840">
+            <state line="14069" column="28" selection-start="53028" selection-end="53028" vertical-scroll-proportion="0.8746803" vertical-offset="210693" max-vertical-offset="308265">
               <folding />
             </state>
           </provider>
@@ -119,14 +83,21 @@
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/wp-content/themes/fashionforward/featured5.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/fashionforward/featured6.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/fashionforward/functions.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/fashionforward/featured.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/fashionforward/featured7.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/fashionforward/featured3.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/fashionforward/includes/customizer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/fashionforward/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/fashionforward/includes/customizer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/fashionforward/featured10.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/fashionforward/featured7.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/fashionforward/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/fashionforward/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/ultimate-responsive-image-slider/tooltip/darktooltip.min.css" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/ultimate-responsive-image-slider/ultimate-responsive-image-slider.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/ultimate-responsive-image-slider/css/slider-pro.css" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/ultimate-responsive-image-slider/uris-layout.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/fashionforward/featured.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/fashionforward/featured3.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/fashionforward/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/fashionforward/sidebar-left.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/fashionforward/single.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/fashionforward/style.css" />
       </list>
     </option>
@@ -183,6 +154,78 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="hautebrides" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hautebrides" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hautebrides" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hautebrides" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fashionforward" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wordpress-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hautebrides" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -251,10 +294,10 @@
     <frame x="0" y="23" width="1280" height="712" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32348368" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3281493" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -265,35 +308,13 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32348368" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32348368" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -312,91 +333,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="1" selection-start="118" selection-end="118" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="945">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/featured6.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="29" selection-start="353" selection-end="353" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="630" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/featured7.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="34" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="630">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/featured.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="39" selection-start="593" selection-end="593" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/featured5.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="29" selection-start="353" selection-end="353" vertical-scroll-proportion="0.0" vertical-offset="20" max-vertical-offset="630" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/featured6.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="29" selection-start="353" selection-end="353" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="630" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/featured7.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="34" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="630">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8660" column="17" selection-start="28015" selection-end="28015" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="304965" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/theme.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="784" column="51" selection-start="25554" selection-end="25554" vertical-scroll-proportion="0.0" vertical-offset="11760" max-vertical-offset="26370" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/featured.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="44" selection-start="258" selection-end="258" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="675" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/featured5.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="27" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="615" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/single.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="30" selection-start="911" selection-end="911" vertical-scroll-proportion="0.0" vertical-offset="870" max-vertical-offset="4590" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="459" selection-end="459" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="915">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/includes/customizer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="901" column="27" selection-start="20757" selection-end="20757" vertical-scroll-proportion="0.0" vertical-offset="13515" max-vertical-offset="37950" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8660" column="17" selection-start="28015" selection-end="28015" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="304965" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-includes/theme.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="784" column="51" selection-start="25554" selection-end="25554" vertical-scroll-proportion="0.0" vertical-offset="11760" max-vertical-offset="26370" />
@@ -511,11 +447,6 @@
         <state line="24" column="26" selection-start="870" selection-end="870" vertical-scroll-proportion="0.3" vertical-offset="0" max-vertical-offset="1245" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/single.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="30" selection-start="911" selection-end="911" vertical-scroll-proportion="2.3966942" vertical-offset="0" max-vertical-offset="4590" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="25" selection-start="86" selection-end="86" vertical-scroll-proportion="0.15" vertical-offset="0" max-vertical-offset="400" />
@@ -536,65 +467,167 @@
         <state line="230" column="37" selection-start="9251" selection-end="9251" vertical-scroll-proportion="-8.8171425" vertical-offset="6461" max-vertical-offset="49875" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/featured.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/featured7.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="20" selection-start="1522" selection-end="1522" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="915">
+        <state line="26" column="36" selection-start="1097" selection-end="1097" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="870" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="135" column="47" selection-start="2919" selection-end="2919" vertical-scroll-proportion="0.37477478" vertical-offset="1817" max-vertical-offset="2385">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/featured3.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/ultimate-responsive-image-slider/css/pricing-table.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="1" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="1020">
+        <state line="8" column="22" selection-start="229" selection-end="229" vertical-scroll-proportion="0.2027027" vertical-offset="0" max-vertical-offset="1470" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/ultimate-responsive-image-slider/css/ris-meta.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="1" selection-start="171" selection-end="171" vertical-scroll-proportion="0.2533784" vertical-offset="0" max-vertical-offset="3015" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/ultimate-responsive-image-slider/tooltip/darktooltip.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="1949" selection-start="1949" selection-end="1949" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/ultimate-responsive-image-slider/js/jquery.sliderPro.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="232" column="35" selection-start="16427" selection-end="16427" vertical-scroll-proportion="0.55263156" vertical-offset="3291" max-vertical-offset="32580" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/includes/customizer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1085" column="28" selection-start="23830" selection-end="23830" vertical-scroll-proportion="0.0" vertical-offset="16255" max-vertical-offset="41730" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/style-og.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18603" column="1" selection-start="70222" selection-end="70222" vertical-scroll-proportion="0.33152175" vertical-offset="278923" max-vertical-offset="304635">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/style-original.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18601" column="1" selection-start="70155" selection-end="70155" vertical-scroll-proportion="0.33152175" vertical-offset="278893" max-vertical-offset="304605">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/ultimate-responsive-image-slider/css/slider-pro.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="457" column="31" selection-start="8093" selection-end="8093" vertical-scroll-proportion="0.33333334" vertical-offset="6728" max-vertical-offset="12555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/autoscroll.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="35" selection-start="44" selection-end="44" vertical-scroll-proportion="0.054054055" vertical-offset="0" max-vertical-offset="2070">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/featured10.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="45" selection-start="430" selection-end="430" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1020">
+        <state line="0" column="23" selection-start="23" selection-end="23" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1050">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/includes/customizer.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/ultimate-responsive-image-slider/uris-layout.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1162" column="15" selection-start="25089" selection-end="25089" vertical-scroll-proportion="0.0" vertical-offset="17170" max-vertical-offset="41730">
+        <state line="98" column="58" selection-start="2799" selection-end="2799" vertical-scroll-proportion="0.30456853" vertical-offset="1290" max-vertical-offset="2685">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/featured7.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/ultimate-responsive-image-slider/ultimate-responsive-image-slider.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="29" selection-start="391" selection-end="391" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="840">
+        <state line="299" column="36" selection-start="13555" selection-end="13555" vertical-scroll-proportion="0.5968858" vertical-offset="4035" max-vertical-offset="6780">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/index.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/featured.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="27" selection-start="458" selection-end="458" vertical-scroll-proportion="-7.5" vertical-offset="60" max-vertical-offset="945">
+        <state line="14" column="56" selection-start="360" selection-end="360" vertical-scroll-proportion="0.3633218" vertical-offset="0" max-vertical-offset="990">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="213" column="0" selection-start="6559" selection-end="6559" vertical-scroll-proportion="-10.083333" vertical-offset="2953" max-vertical-offset="4140">
+        <state line="13" column="29" selection-start="480" selection-end="480" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="4140">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="24" selection-start="144" selection-end="144" vertical-scroll-proportion="0.1056338" vertical-offset="0" max-vertical-offset="568">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/featured3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="39" selection-start="1440" selection-end="1440" vertical-scroll-proportion="0.2733564" vertical-offset="352" max-vertical-offset="1065">
+          <folding>
+            <marker date="1430374433000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/widgets.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1137" column="18" selection-start="34138" selection-end="34138" vertical-scroll-proportion="0.6482558" vertical-offset="16652" max-vertical-offset="25590">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/posts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="41" selection-start="589" selection-end="589" vertical-scroll-proportion="0.44959128" vertical-offset="0" max-vertical-offset="450">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="46" selection-start="165" selection-end="165" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/sidebar-left.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="15" selection-start="274" selection-end="274" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="268" column="0" selection-start="8056" selection-end="8056" vertical-scroll-proportion="-7.0833335" vertical-offset="3850" max-vertical-offset="9315">
+        <state line="322" column="67" selection-start="9436" selection-end="9436" vertical-scroll-proportion="-8.083333" vertical-offset="4636" max-vertical-offset="9600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="10" selection-start="116" selection-end="116" vertical-scroll-proportion="-9.041667" vertical-offset="53" max-vertical-offset="4485">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/fashionforward/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17940" column="20" selection-start="68540" selection-end="68540" vertical-scroll-proportion="0.54972875" vertical-offset="268796" max-vertical-offset="307875">
+        <state line="14069" column="28" selection-start="53028" selection-end="53028" vertical-scroll-proportion="0.8746803" vertical-offset="210693" max-vertical-offset="308265">
           <folding />
         </state>
       </provider>

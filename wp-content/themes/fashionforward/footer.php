@@ -128,8 +128,26 @@
 <?php } ?>
 
 
- 
+<?php //if (is_home()) { popupwfb( $Popupwfb_group = "", $Popupwfb_id = "" ); } ?>
+<script>
+    var num = 50; //number of pixels before modifying styles
 
+    jQuery(window).bind('scroll', function () {
+        if (jQuery(window).scrollTop() > num) {
+            jQuery('.primary-menu-holder').addClass('fixed');
+        } else {
+            jQuery('.primary-menu-holder').removeClass('fixed');
+        }
+    });
+</script>
+<style>
+    .fixed {
+        position:fixed;
+        top:0;
+        background-color: white;
+        z-index: 999999;
+    }
+</style>
  
 </body>
 
