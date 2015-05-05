@@ -65,7 +65,7 @@
 
           <div>
 
-            <?php _e('Posted by ','mm'); ?><a href="<?php echo get_author_posts_url( get_the_author_meta( 'ID' ) ); ?>" title=" <?php printf( esc_attr__( 'View all posts by %s', 'mm'), get_the_author() ); ?>"><?php the_author(); ?></a> <?php _e('on ','mm'); ?> <?php echo get_the_date(); ?> <?php edit_post_link('Edit This', ' / ', ''); ?>
+            <?php _e('By ','mm'); ?><a href="<?php echo get_author_posts_url( get_the_author_meta( 'ID' ) ); ?>" title=" <?php printf( esc_attr__( 'View all posts by %s', 'mm'), get_the_author() ); ?>"><?php the_author(); ?></a> <?php _e('on ','mm'); ?> <?php echo get_the_date(); ?> <?php edit_post_link('Edit This', ' / ', ''); ?>
 
           </div>
 

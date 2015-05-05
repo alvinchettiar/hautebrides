@@ -14559,7 +14559,7 @@ border: 1px solid #F0EDE6;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 
- 	line-height: 58px;
+ 	line-height: 50px;
 
 
 
@@ -14567,7 +14567,8 @@ border: 1px solid #F0EDE6;
 
 
 
-	font-weight: bold;
+	font-weight: lighter;
+    text-transform: uppercase;
 
 
 
@@ -14713,15 +14714,11 @@ font-weight: bold;
 
 .meta_author ul li {
 
-
-
-	color: #cacaca; 
-
-
+	color: #cacaca;
 
 	margin: 0 0 0 0px;
 
-
+    list-style: none;
 
 }
 
@@ -14871,8 +14868,8 @@ line-height: 26px;
 
 
 
-	color: #3085f8;
-
+	/*color: #3085f8;*/
+    color: black;
 
 
 	/*font-family: Arial, Helvetica, sans-serif;*/
