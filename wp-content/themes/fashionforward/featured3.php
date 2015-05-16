@@ -32,7 +32,7 @@ $category_link = get_category_link( $category_id );
             $content1 = htmlspecialchars_decode(str_replace( ']]>', ']]&gt;', $content ));
             $content2 = preg_replace('/^\s+|\n|\r|\s+$/m', '', $content1);
             $content_length = strlen($content2);*/
-            $content = get_the_content();
+            $content = wp_strip_all_tags(get_the_content());
             $content_length = strlen($content);
             ?>
             <div class="postdesc">

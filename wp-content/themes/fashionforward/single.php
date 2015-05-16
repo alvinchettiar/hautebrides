@@ -46,7 +46,7 @@
 
 
 
-<?php get_sidebar('left'); ?>
+<?php //get_sidebar('inner'); ?>
   <div class="content-single-inner">
       <div class="singlepage-title"> <h1><?php the_title(); ?></h1></div>
 <?php if ( '1' === get_theme_mod( 'ad_8_on_off' ) ) { ?>
@@ -263,7 +263,7 @@ wp_link_pages( array(
 
 
 
-  <?php get_sidebar(); ?>
+  <?php get_sidebar('inner'); ?>
 
 
 

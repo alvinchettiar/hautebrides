@@ -31,7 +31,7 @@ $category_link = get_category_link( $category_id );
             /*$content = apply_filters('the_content', get_the_content());
             $content = htmlspecialchars_decode(str_replace( ']]>', ']]&gt;', $content ));
             $content_length = strlen($content);*/
-            $content = get_the_content();
+            $content = wp_strip_all_tags(get_the_content());
             $content_length = strlen($content);
             ?>
             <div class="postdesc">

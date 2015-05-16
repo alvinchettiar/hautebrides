@@ -330,6 +330,25 @@ if ( function_exists('register_sidebar') ) {
 
     ) );
 
+    //registering new custom sidebar for single post page
+    register_sidebar(array(
+
+        'id' => 'inner-sidebar',
+
+        'name' => __('Inner Sidebar','mm'),
+
+        'description'   => __( 'Main sidebar that appears on the inner page.', 'mm' ),
+
+        'before_widget' => '<aside id="%1$s" class="widget %2$s">',
+
+        'after_widget'  => '</aside>',
+
+        'before_title'  => '<div class="sidebar-widget-title"><span>',
+
+        'after_title'   => '</span>'.'</div>',
+
+    ) );
+
  register_sidebar(array(
 
     'id' => 'footer-sidebar-1', 
